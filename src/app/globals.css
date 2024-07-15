@@ -42,6 +42,11 @@ body {
   }
 }
 
+section {
+  min-height: 100vh;
+  padding: 10rem 7% 2rem;
+}
+
 @layer utilities {
   .text-balance {
     text-wrap: balance;
