@@ -46,11 +46,15 @@ function HomeSection() {
 
                 <div className="overlay"></div>
 
+                <div className="home-img">
+                    <Image
+                        className='img'
+                        src={home}
+                        alt='Home image'
+                    />
+                </div>
             </div>
 
-            <div className="home-img">
-                <img src="../../images/home.png" alt="" />
-            </div>
         </section>
     )
 }

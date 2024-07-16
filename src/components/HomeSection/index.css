@@ -138,10 +138,10 @@
     border-left: 384px solid transparent;
 }
 
-.home-img img {
+.home-img .img {
     position: absolute;
     bottom: 0;
-    right: 0;
-    width: 100%;
+    right: 60px;
+    width: 58%;
     pointer-events: none;
 }
