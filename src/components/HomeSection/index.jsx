@@ -51,6 +51,8 @@ function HomeSection() {
                         className='img'
                         src={home}
                         alt='Home image'
+                        layout="fill"
+                        objectFit="contain"
                     />
                 </div>
             </div>
