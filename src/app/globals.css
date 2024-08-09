@@ -17,6 +17,7 @@ html {
 body {
   background: var(--bg-color);
   color: var(--text-color);
+  font-family: 'Poppins', sans-serif;
 }
 
 * {
@@ -27,6 +28,7 @@ body {
   border: none;
   outline: none;
   scroll-behavior: smooth;
+  font-family: 'Poppins', sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {
